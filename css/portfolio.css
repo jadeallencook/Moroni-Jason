@@ -1,0 +1,30 @@
+div#tumblr-feed {
+  text-align: center;
+}
+
+div.tumblr-holder {
+  height: 250px;
+  width: 250px;
+  display: inline-block;
+  background-size: cover;
+  background-position: center center;
+  cursor: pointer;
+  margin: 0px 5px 5px 5px;
+  border-radius: 5px!important;
+}
+
+div.tumblr-holder:hover {
+  opacity: 0.5;
+}
+
+div#tumblr-feed img {
+  width: 75%;
+  border-radius: 25px!important;
+}
+
+div#portfolio-btns {
+  text-align: center;
+  width: 100%;
+  margin-top: -25px;
+  margin-bottom: 25px;
+}
